@@ -2,6 +2,9 @@
 
 This is a production-grade Notes Management System built with Laravel 11 and Vue.js. It features a complete AI integration for Semantic Search (via PostgreSQL pgvector) and intelligent note summarization.
 
+## Demo video:
+https://www.loom.com/share/fec45362eae44b2590be8c6e301e25ee
+
 ## Setup Instructions
 
 1. **Prerequisites**: Ensure Docker and Docker Compose are installed.
